@@ -1,0 +1,17 @@
+tensorflow
+tensorflow-serving-api
+python-multipart
+pillow
+matplotlib
+numpy
+tensorflow-model-optimization
+matplotlib
+scikit-learn
+pandas
+seaborn
+statsmodels
+streamlit
+fastapi
+uvicorn
+pillow
+python-multipart
