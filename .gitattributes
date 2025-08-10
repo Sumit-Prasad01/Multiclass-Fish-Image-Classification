@@ -1,3 +1,4 @@
 models/ResNet50_(Transfer_Learning)_fine_tuned_model.keras filter=lfs diff=lfs merge=lfs -text
+Transfer_Learning_Model.keras filter=lfs diff=lfs merge=lfs -text
 *.keras filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
