@@ -10,10 +10,10 @@ import os
 def load_model():
     # Try multiple possible paths for the model
     possible_paths = [
-        #"models/Transfer_Learning_Model.keras",  # Same directory
+        "models/Transfer_Learning_Model.keras",  # Same directory
         #"../models/Transfer_Learning_Model.keras",  # models subdirectory
-        "../models/Custom_CNN_Fish_Classificatio.keras",  # models subdirectory
-        "models/Custom_CNN_Fish_Classificatio.keras",  # models subdirectory
+        # "../models/Custom_CNN_Fish_Classificatio.keras",  # models subdirectory
+        # "models/Custom_CNN_Fish_Classificatio.keras",  # models subdirectory
     ]
     
     model = None
